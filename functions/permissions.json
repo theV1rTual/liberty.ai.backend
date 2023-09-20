@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "libertyai",
+  "private_key_id": "34eca8b97952130f64279c089d9eb6f2308695c3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIhxdq5owKI9r7\nfuXbdqObYgt8fr5NzhJHcZKI9b6GntEYm8BoTGM4r61BXUf/GS5wmamwIircWKvs\nAHIr/16LTDGEXmHft1ESEpYtf2AawXU9s+dCa34QngiEWXBeO+h++2nTwLCRlngL\ngprNM+qVuHmmG1J+z+5+fSAMDy5vr3NM6Kz8rVb710heJuaoijbX1siWMZzlk/ME\nni9Ky0d5CeKt88BMvsHNi0qotzEiSCMFaHlLyqIMsetwJyXmqEuVE9rYQUBYTrYZ\nmoRBr8x8K12pkyuTEEL7bRR9bTFU0VU/ncphizoKQCYvMvnrZ48uREUp3Jzsvf5m\nD1cbCD03AgMBAAECggEAA+4l5tn6763xOlGr5qfGICMFT5zaVQMPd6gBs76BS/kr\n5vwSgtjQbwl+b1QJN7ZCI0HXwhSBW40/XWJK2pLoQvms1MfWykA5Dg4gNGcVNqEJ\nD7sJctNRhrjaOOHZ4nbxISADXHuf2lKlKrCWISR92g5iD//kF4kyxvbj3Gilw9mX\nFAyXJ5pX5vAwqtQqX+1xl7jlIbMnCgx1ECsQk8GLLQKW852QU4RJKrz9mkGw9q7S\nT5p3vdnVY5Mjct7APJ1f3/xZLJpLLQYfdrF4HV8MXu3oYRxpnBieQtxdjFEjxhur\neG9TVqAUYMjttG+hAMdctboORnDl7EdJMF5kBc+NVQKBgQD0pUvxKG/zk92UufuA\n4Aa0/rsdlg4p5ZsD6exLvvbFnu2utueUrNm07mzKOaqo5OeZscTa/f2l/6iKY9Dm\nj3MW0PkPLRaiXRLNeP1+3brtVXtqSbg5OzIUPxzBqHaj8Fl51nK/FSbp92ut80ED\nDaaccqwTEhFhpKekzfX6xyeKawKBgQDR1Z3jjP2cjIdIahtpwC3ndSly4P2750KN\nhbFw/Bx3xtMq2yR/HW5UttRLXvJhTUOjpjFzZBt18NSPYjH0IcX/x79JCaQI15l7\ncrAxKx+sPA506k9ko8FpiHiAItoIzxrExPx0Cj2l5iA0mVmcs6D2gHMGpXYO5vyl\nmJTZJgYjZQKBgQDRlvNSrYQLt3gzvIn9RPA6C6melTmZJz4Awl1QH1AmyhtyfPw1\nYUg6O7E0JudQPps0DxpJSyQNHNP1i8IiZG8C8xEMsWIcw4QiSC9Uiv1j6sIKsxGC\n5nXm5pLqTjsmA/mD6fbwQVzPQMsdgbMGvKEqkwtcYzRE5N1C0biUmh4D9QKBgH6R\ntrIqOlPypCt27WAlbsr9beoAcqyj+w34haacO+O3x2pDU0lljEaHHZj1BYjRnSoa\nNhvfV30VrnFqjq0urgryBpzcttgqjEbdUA/obitq8mFtcERJToIEsoLAAvprSj9E\nfu7TuonWPLjdgyM1arMlmbx5k7O7esu8NJSjDfLNAoGAWkLeLy+L1Ndl8c2m+SqD\nXYGsImpAlaMQTlotRxiz8I2zV8CZp2T2I3ShcXNLI1ykBa+lrnl2v630k88t4geK\nW1njoNZwdIVR2xNzHxlfLSGciRDA8bYPSb6mlqjB4Wfce1qnhh4OEChIpEVdCjCT\njUAK/6GaWAEiuj/faMXdABE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-pksml@libertyai.iam.gserviceaccount.com",
+  "client_id": "104140313709234901644",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-pksml%40libertyai.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
